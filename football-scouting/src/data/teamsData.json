@@ -1,0 +1,770 @@
+[
+  {
+    "id": 1,
+    "name": "FC Barcelona",
+    "logo": "fc_barcelona.png",
+    "value": "€4.3B",
+    "stadium": "Camp Nou",
+    "league": "La Liga"
+  },
+  {
+    "id": 2,
+    "name": "Real Madrid",
+    "logo": "real_madrid.png",
+    "value": "€4.8B",
+    "stadium": "Santiago Bernabeu",
+    "league": "La Liga"
+  },
+  {
+    "id": 3,
+    "name": "Liverpool",
+    "logo": "liverpool.png",
+    "value": "€4.2B",
+    "stadium": "Anfield",
+    "league": "Premier League"
+  },
+  {
+    "id": 4,
+    "name": "PSG",
+    "logo": "psg.png",
+    "value": "€4.9B",
+    "stadium": "Parc des princes",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 5,
+    "name": "Juventus",
+    "logo": "juventus.png",
+    "value": "€4.2B",
+    "stadium": "Juventus Stadium",
+    "league": "Serie A"
+  },
+  {
+    "id": 6,
+    "name": "Bayern Munich",
+    "logo": "bayermunchen.png",
+    "value": "€4.5B",
+    "stadium": "Allianz Arena",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 7,
+    "name": "Chelsea",
+    "logo": "chelsea.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 8,
+    "name": "Athletic Club",
+    "logo": "athletic_club.png",
+    "value": "€3.5B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 9,
+    "name": "Lecce",
+    "logo": "lecce.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 10,
+    "name": "Marseille",
+    "logo": "marseille.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 11,
+    "name": "Napoli",
+    "logo": "napoli.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 12,
+    "name": "Darmstadt",
+    "logo": "darmstadt.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 13,
+    "name": "Man Utd",
+    "logo": "man_utd.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 14,
+    "name": "Granada",
+    "logo": "granada.png",
+    "value": "€0.9B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 15,
+    "name": "FC Heidenheim",
+    "logo": "fc_heidenheim.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 16,
+    "name": "Nottingham Forest",
+    "logo": "nottingham_forest.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 17,
+    "name": "Sheff Utd",
+    "logo": "sheff_utd.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 18,
+    "name": "Arsenal",
+    "logo": "arsenal.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 19,
+    "name": "Eintracht Frankfurt",
+    "logo": "eintracht_frankfurt.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 20,
+    "name": "Fulham",
+    "logo": "fulham.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 21,
+    "name": "Mainz",
+    "logo": "mainz.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 23,
+    "name": "Luton",
+    "logo": "luton.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 25,
+    "name": "Toulouse",
+    "logo": "toulouse.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 26,
+    "name": "Valencia",
+    "logo": "valencia.png",
+    "value": "€3.2B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 28,
+    "name": "Brest",
+    "logo": "brest.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 29,
+    "name": "Lens",
+    "logo": "lens.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 30,
+    "name": "Mallorca",
+    "logo": "mallorca.png",
+    "value": "€1.7B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 31,
+    "name": "Lyon",
+    "logo": "lyon.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 32,
+    "name": "Genoa",
+    "logo": "genoa.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 33,
+    "name": "Nice",
+    "logo": "nice.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 34,
+    "name": "Monza",
+    "logo": "monza.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 35,
+    "name": "Frosinone",
+    "logo": "frosinone.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 36,
+    "name": "Roma",
+    "logo": "roma.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 37,
+    "name": "Atalanta",
+    "logo": "atalanta.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 38,
+    "name": "Borussia M.Gladbach",
+    "logo": "borussia_m.gladbach.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 39,
+    "name": "Real Betis",
+    "logo": "real_betis.png",
+    "value": "€3.6B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 40,
+    "name": "Girona",
+    "logo": "girona.png",
+    "value": "€2.6B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 41,
+    "name": "Getafe",
+    "logo": "getafe.png",
+    "value": "€1.1B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 42,
+    "name": "Sassuolo",
+    "logo": "sassuolo.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 43,
+    "name": "Verona",
+    "logo": "verona.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 44,
+    "name": "Borussia Dortmund",
+    "logo": "borussia_dortmund.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 45,
+    "name": "Tottenham",
+    "logo": "tottenham.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 47,
+    "name": "Cagliari",
+    "logo": "cagliari.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 48,
+    "name": "Celta Vigo",
+    "logo": "celta_vigo.png",
+    "value": "€1.6B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 49,
+    "name": "Wolfsburg",
+    "logo": "wolfsburg.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 50,
+    "name": "Almeria",
+    "logo": "almeria.png",
+    "value": "€0.7B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 51,
+    "name": "Cadiz",
+    "logo": "cadiz.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 52,
+    "name": "Monaco",
+    "logo": "monaco.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 53,
+    "name": "Atletico",
+    "logo": "atletico.png",
+    "value": "€3.8B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 54,
+    "name": "Man City",
+    "logo": "man_city.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 55,
+    "name": "Wolves",
+    "logo": "wolves.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 56,
+    "name": "Torino",
+    "logo": "torino.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 57,
+    "name": "Le Havre",
+    "logo": "le_havre.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 58,
+    "name": "Udinese",
+    "logo": "udinese.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 59,
+    "name": "Las Palmas",
+    "logo": "las_palmas.png",
+    "value": "€1.4B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 60,
+    "name": "Everton",
+    "logo": "everton.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 61,
+    "name": "Inter",
+    "logo": "inter.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 62,
+    "name": "Clermont Foot",
+    "logo": "clermont_foot.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 63,
+    "name": "Bournemouth",
+    "logo": "bournemouth.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 64,
+    "name": "Sevilla",
+    "logo": "sevilla.png",
+    "value": "€3.2B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 66,
+    "name": "Fiorentina",
+    "logo": "fiorentina.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 67,
+    "name": "FC Koln",
+    "logo": "fc_koln.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 68,
+    "name": "Leverkusen",
+    "logo": "leverkusen.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 70,
+    "name": "Augsburg",
+    "logo": "augsburg.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 71,
+    "name": "Salernitana",
+    "logo": "salernitana.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 72,
+    "name": "Bochum",
+    "logo": "bochum.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 73,
+    "name": "Real Sociedad",
+    "logo": "real_sociedad.png",
+    "value": "€2.8B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 74,
+    "name": "Reims",
+    "logo": "reims.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 75,
+    "name": "Burnley",
+    "logo": "burnley.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 76,
+    "name": "AC Milan",
+    "logo": "ac_milan.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 77,
+    "name": "Deportivo Alaves",
+    "logo": "deportivo_alaves.png",
+    "value": "€1.3B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 78,
+    "name": "Rayo Vallecano",
+    "logo": "rayo_vallecano.png",
+    "value": "€1.1B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 79,
+    "name": "Lazio",
+    "logo": "lazio.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 80,
+    "name": "Aston Villa",
+    "logo": "aston_villa.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 81,
+    "name": "Nantes",
+    "logo": "nantes.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 82,
+    "name": "Bologna",
+    "logo": "bologna.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 83,
+    "name": "Metz",
+    "logo": "metz.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 84,
+    "name": "Villarreal",
+    "logo": "villarreal.png",
+    "value": "€2.3B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 85,
+    "name": "Brentford",
+    "logo": "brentford.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 86,
+    "name": "Montpellier",
+    "logo": "montpellier.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 87,
+    "name": "Strasbourg",
+    "logo": "strasbourg.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 88,
+    "name": "Brighton",
+    "logo": "brighton.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 89,
+    "name": "Freiburg",
+    "logo": "freiburg.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 90,
+    "name": "Newcastle",
+    "logo": "newcastle.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 91,
+    "name": "West Ham",
+    "logo": "west_ham.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 92,
+    "name": "Werder Bremen",
+    "logo": "werder_bremen.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 93,
+    "name": "Empoli",
+    "logo": "empoli.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Serie A"
+  },
+  {
+    "id": 94,
+    "name": "Stuttgart",
+    "logo": "stuttgart.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 95,
+    "name": "Osasuna",
+    "logo": "osasuna.png",
+    "value": "€1.5B",
+    "stadium": "Unknown",
+    "league": "La Liga"
+  },
+  {
+    "id": 97,
+    "name": "Crystal Palace",
+    "logo": "crystal_palace.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Premier League"
+  },
+  {
+    "id": 98,
+    "name": "Lorient",
+    "logo": "lorient.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 99,
+    "name": "Hoffenheim",
+    "logo": "hoffenheim.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 100,
+    "name": "RBL",
+    "logo": "rbl.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 102,
+    "name": "Rennes",
+    "logo": "rennes.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 103,
+    "name": "Lille",
+    "logo": "lille.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 104,
+    "name": "Union Berlin",
+    "logo": "union_berlin.png",
+    "value": "€1.0B",
+    "stadium": "Unknown",
+    "league": "Bundesliga"
+  }
+]
